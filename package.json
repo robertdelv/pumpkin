@@ -9,8 +9,21 @@
     "engines": {
         "vscode": "^1.53.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/robertdelv/pumpkin"
+    },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "pumpkin",
+        "orange",
+        "Web",
+        "HTML",
+        "CSS",
+        "PHP",
+        "Javascript"
     ],
     "contributes": {
         "themes": [
