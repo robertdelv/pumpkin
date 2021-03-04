@@ -13,6 +13,7 @@
         "type": "git",
         "url": "https://github.com/robertdelv/pumpkin"
     },
+    "icon": "images/icon.png",
     "categories": [
         "Themes"
     ],
